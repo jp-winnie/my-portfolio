@@ -1,0 +1,27 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./images/feather-pen-1.png",
+            "title": "Frontend",        
+            "description": "I design and develop clean, visually appealing, and well-structured websites tailored to each client's needs. Each project is customized based on client preferences whether they are personal portfolios, business websites, or hybrid platforms. I focus on clear layouts, responsive design, and user-friendly navigation to deliver a smooth experience across devices to have a lasting impression."               
+        },
+         {
+            "id": "2",
+            "src": "./images/feather-pen-2.png",
+            "title": "UI/UX Design",        
+           "description": "I design user interfaces by using Figma in creating intuitive and efficient layouts optimized for touch-based interactions. I prioritize usability, visual clarity, and user-friendly design, turning ideas into polished interfaces that feel natural and enjoyable to use."               
+        }               
+    ],
+     "portfolio": [
+        {
+            "id": "1",
+            "src": "./images/burger.png",
+            "title": "Food Mentor",        
+            "description": "The goal of this project is to develop a food image analyzer that is based on the dish that the user chooses to upload. That will analyze the food image and then present the ingredient list and a step-by-step making. Providing a straightforward and user-friendly website where users can get what they need without having to go through several websites or videos, assists beginners who are attempting to learn how to cook.",
+            "link": "Visit the Website"     
+        }
+                  
+    ]
+    
+}
